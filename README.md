@@ -1,4 +1,4 @@
 # BookLandApp
-Book Land 
-  Book Discussion App
-  Privacy Policy Website
+Book Land Android App <br>
+- Book Discussion App <br>
+- Privacy Policy Website
