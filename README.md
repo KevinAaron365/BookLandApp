@@ -1,4 +1,4 @@
 # BookLandApp
 Book Land 
--Book Discussion App
--Privacy Policy Website
+  Book Discussion App
+  Privacy Policy Website
